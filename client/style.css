@@ -119,8 +119,8 @@ body {
 form {
   width: 100%;
   max-width: 1280px;
-  margin: 2px auto;
-  margin-left: 10px;
+  margin: 10px auto;
+  margin-left: 10px; 
   margin-right: 15px;
   padding: 5px;
   background: #dfdede;
